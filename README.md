@@ -44,12 +44,10 @@ This project focuses on building robust data engineering pipelines for Formula 1
 Here are some insights from the race data:
 ![Project screenshot](https://github.com/monikakrajnc/OpenF1/blob/main/results_python.png)
 
-￼
-￼
 
-￼
 For the context:
 position: Final race position
+
 number_of_positions: The total number of different positions a driver held during the race, indicating how many unique positions they moved through from the start to the end of the race.
 
 ## License
